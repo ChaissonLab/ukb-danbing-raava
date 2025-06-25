@@ -1,0 +1,6 @@
+{
+	"docker_image" :     { "$dnanexus_link" : "file-J1Gz45QJggvPp8BxxG8p3JP7" },
+	"all_inputs" :       { "$dnanexus_link" : "file-J1JPv7jJggv5bPPyP77gzGBY" },
+	"fa" :               { "$dnanexus_link" : "file-GpzvFGjJggv57kPgBZkx6JvZ" },
+	"o" : "test_g"
+}
